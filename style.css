@@ -1,0 +1,27 @@
+body {
+    position: relative;
+    background-color: #F8F9FA;
+}
+
+.jumbotron {
+    background-image: url(background-land.jpg);
+    padding-top: 50px;
+    margin-top: 50px;
+}
+
+#appStoreIcon {
+    width: 200px;
+}
+
+#footer {
+    text-align: center;
+    padding: 50px;
+    margin-top: 50px;
+    background-color:bisque;
+    
+}
+
+#about {
+    margin-top: 50px;
+    padding-top: 50px;
+}
